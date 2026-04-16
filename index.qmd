@@ -3,12 +3,4 @@ title: "GitHub Pages Example"
 format: html
 ---
 
-# Welcome
-
----
-
-# Project Description 
-
----
-
-# Data Analysis
+# Hello world
